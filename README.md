@@ -1,18 +1,13 @@
-# e_commerce
+A small flutter project to apply state management concepts.
 
-A new Flutter project.
+Home page image:
+![image](screenshots/home.png)
 
-## Getting Started
+Products page image:
+![image](screenshots/products.png)
 
-This project is a starting point for a Flutter application.
+An image during adding an image to the cart(showing a snackbar):
+![image](screenshots/products_with_addtocart_snackbar.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# e-commerce
+Cart page image:
+![image](screenshots/cart.png)
